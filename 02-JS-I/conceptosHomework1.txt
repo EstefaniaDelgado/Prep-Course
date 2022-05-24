@@ -1,0 +1,21 @@
+Conceptos:
+
+¬VARIABLES: es donde se guarda o almacena el valor de algo para ser usado más adelante.
+
+¬STRINGS: es un tipo de dato que permite almacenar una cadena de texto, las cuales 
+siempre se definen entre comillas.
+
+¬FUNCIÓN: son necesarias para poder hacer algo con un conjunto de variables, como realizar 
+un calculo.
+
+  -ARGUMENTOS: son los datos que le pasamos y que recibe una función.
+  -RETURN: es una palabra clave que se usa para obtener o retornar un valor de una función
+ o de la ejecución del código de dicha función. Con return la ejecución de la función va a 
+ terminar, y por ende todo lo que este debajo del return no va a funcionar.
+
+¬DECLARACIONES IF: es un condicional que evalua una expresion y asi determinar si se realiza 
+una acción o no, dependiendo de si la expresion cumple o no con la condicion dada.
+
+¬Valores booleanos (True, False): son los dos valores que puede tomar una variable boolean en 
+JavaScript, cuyo significado es Verdadero o Falso.
+
