@@ -1,0 +1,13 @@
+   CONCEPTOS
+
+For: es una forma de recorrer un bloque de codigo más de una vez, por lo tanto, evalua una
+expresion condicional; y siempre que esta se cumpla, el ciclo vuelve a empezar. Dejara de
+hacer el recorrido una vez la condición sea falsa.
+
+&&: evalua dos expresiones; si ambas se cumplen, arraja verdad, de lo contrario es falso.
+
+||: evalua dos expresiones, pero en este caso, si cualquiera de las dos se cumple arroja
+verdad, o si ambas se cumplen tambien arrajaria verdad, pero si ninguna de las dos se 
+cumple arroja falso.
+
+!: arroja el valor opuesto de un valor booleano, si este es verdad, lo cambia a falso.
