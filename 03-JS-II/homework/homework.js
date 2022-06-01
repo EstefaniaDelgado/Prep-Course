@@ -204,11 +204,8 @@ function tablaDelSeis(){
   return tabla6;
 }
 
-    // 6* 0 0
-    // 6*1 6
-    // ...
-    // 6*10 60
-    // [0, 6....60] aqui en el arreglo voy a tener todos los numero de la tabla del 6 hasta el 60
+
+    
   
  
 
