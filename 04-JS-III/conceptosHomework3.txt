@@ -1,0 +1,7 @@
+       Concepto
+
+Array: es un objeto que almacena multiples datos o una coleccion de datos, en el cual
+le podemos agregar la cantidad que deseemos separados por comas, que pueden ser de tipo
+string, numerico, booleano; y ademas acceder a estos elementos o datos a traves de la
+posición numerica que ocupe cada uno dentro del array, un indice o key, que siempre 
+empieza por cero.
