@@ -81,11 +81,13 @@ function arrayContiene(array, elemento) {
   // Devuelve "true" si está, o "false" si no está
   // Tu código:
 
-for(var i = 0; i < array.length; i = i+1){
-  if(array[i] == elemento)
+  if (array.includes(elemento)){
+
     return true;
+
   }
   return false;
+
 }
 
 
@@ -120,8 +122,21 @@ function promedioResultadosTest(resultadosTest) {
 function numeroMasGrande(numeros) {
   // "numeros" debe ser una matriz de enteros (int/integers)
   // Devuelve el número más grande
-  // Tu código:
-  return Math.max.apply(null, numeros);
+  // Tu código: // numeros [1,2,10,5]   devuelva 10
+
+var numeroMayor = 0; // 1, 2, 10 el valor de numeromayor es 10 
+
+  for(var i = 0; i < numeros.length; i++){
+
+   if(numeros[i] > numeroMayor){
+
+    numeroMayor = numeros[i];
+
+   }
+
+  }
+  return numeroMayor;
+  
 }
 
 
