@@ -203,7 +203,7 @@ function tablaDelSeis(){
   }
   return tabla6;
 }
-
+console.log(tablaDelSeis());
 
     
   

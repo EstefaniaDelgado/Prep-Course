@@ -1,0 +1,28 @@
+               CONCEPTOS
+
+OBJETOS: son un coleccion de propiedades o tambien podemos decir que son variables que 
+contienen diferentes propiedades. 
+
+PROPIEDADES: son una asociación entre nombre(key)-valor(value), por tal razon, las vemos
+dentro del objeto como pares de nombre-valor.
+
+MÉTODOS:es una funcion que al encontrarse dentro de un objeto recibe este nombre.En pocas
+ palabras son funciones que viven dentro de las propiedades de un objeto.
+
+BUCLE FOR IN: este es el blucle que se usa para recorrer un objeto, en donde lo que hace es
+recorrer cada propiedad que serian los key de un objeto y finaliza cuando se hayan iterado 
+todos los key, teniendo en cuenta que estos no tienen una posicion numerica, ni
+estan ordenadas como en el caso de los array, sin embargo, si son visibles.
+
+NOTACIÓN DE PUNTOS (DOT NOTATION): es una forma para acceder a las propiedades de un objeto,
+en este caso ponemos el nombre del objeto seguido por un punto y el nombre de la propiedad,
+el cual debe ser literal.
+
+NOTACIÓN DE CORCHETES: es la otra forma de acceder a las propiedades de un objeto, solo que
+en este caso usamos los corchetes y dentro va el nombre de la propiedad. Esta forma la usamos
+cuando no tenemos el nombre literal de la propiedad, es decir, tenemos un argumento pasado
+como el nombre de una propiedad dentro de un objeto, pero si ese argumento lo que hace
+es referenciarme a una propiedad creada. Aunque en este caso tambien lo podriamos usar esta
+forma, si tenemos el nombre literal de la propiedad, solo que ese nombre iria entre comillas
+dentro de nuestro parentesis.
+

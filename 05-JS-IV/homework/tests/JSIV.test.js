@@ -153,7 +153,6 @@ describe('agregarAmigo(user, newFriend)', function() {
     expect(agregarAmigo(user, 'Shay').amigos.pop()).toBe('Shay');
   });
 });
-
 describe('pasarUsuarioAPremium(users)', function() {
   it('should return the users array with each user\'s esPremium property set to true', function() {
     const users = [
