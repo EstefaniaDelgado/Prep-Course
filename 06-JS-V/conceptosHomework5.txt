@@ -1,0 +1,10 @@
+                       CONCEPTOS
+
+PROTOTYPE: hace referencia a que todos los objetos tienen una referencia a otro objeto 
+llamado prototipo. Esta es una manera que tienen las clases de establecer un metodo una
+vez y dar acceso a cada uno de los objetos de esa clase. Cuando se tiene un objeto y se busca
+una propiedad especifica dentro del mismo pero no se encuentra, JavaScript lo que hace es buscar
+dicha propiedad dentro del prototipo, que seria como una fuente de propiedades alternativa.
+
+Constructor: es un metodo especial de una clase llamada contructor, por lo que su funcion es
+permitir la creacion de objetos, es como una fabrica de objetos. 
