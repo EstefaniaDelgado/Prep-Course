@@ -1,0 +1,5 @@
+           CONCEPTO
+
+CALLBACKS: hace referencia a las funciones que son pasadas como argumento de otra funcion, 
+las cuales podemos retornarlas como resultado de una funcion y guardarlas en variables, entre
+otras cosas.
